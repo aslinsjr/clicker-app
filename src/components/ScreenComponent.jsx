@@ -42,14 +42,14 @@ const ScreenComponent = () => {
   return (
     <div className='screen-container'>
       <div className="counter">
-        <img id='logo' src="./public/Mario_Series_Logo.svg.png" alt="" />
+        <img id='logo' src="public/Mario_Series_Logo.svg.png" alt="" />
         <div className="counter-number">
           <p>{jumpNumber}</p>
           <p>{jumpNumber == 1 || jumpNumber == -1 ? " Pulo" : " Pulos"}</p>
         </div>
       </div>
       <div className='screen'>
-        <img id='mario' className={comand} src="./public/2d-mario-running.gif" alt="Mario Runing" />
+        <img id='mario' className={comand} src="public/2d-mario-running.gif" alt="Mario Runing" />
       </div>
       <div className='controls-container'>
         <button id='simple-jump' onClick={(e) => handleClick(e)}>Pulo Simples</button>
