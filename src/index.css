@@ -1,0 +1,14 @@
+:root {
+    --border-color: hsl(73.17,46.07%,82.55%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Press Start 2P", system-ui;
+}
+
+body {
+    background-color: #242424;
+}
