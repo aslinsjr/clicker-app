@@ -9,7 +9,7 @@ Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatr
 ### Links
 
 - Solução URL: [Repository](https://github.com/aslinsjr/clicker-app)
-- Live Site URL: [GitHub Page](https://id-card-generator-iota.vercel.app/)
+- Live Site URL: [GitHub Page](https://clicker-app-zeta.vercel.app/)
 
 ### Desenvolvido com
 
