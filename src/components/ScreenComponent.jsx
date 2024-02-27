@@ -49,7 +49,7 @@ const ScreenComponent = () => {
         </div>
       </div>
       <div className='screen'>
-        <img id='mario' className={comand} src="/public/2d-mario-running.gif" alt="Mario Runing" />
+        <img id='mario' className={comand} src="./public/2d-mario-running.gif" alt="Mario Runing" />
       </div>
       <div className='controls-container'>
         <button id='simple-jump' onClick={(e) => handleClick(e)}>Pulo Simples</button>
