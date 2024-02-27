@@ -8,7 +8,7 @@ Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatr
 
 ### Links
 
-- Solução URL: [Repository](https://github.com/aslinsjr/id-card-generator)
+- Solução URL: [Repository](https://github.com/aslinsjr/clicker-app)
 - Live Site URL: [GitHub Page](https://id-card-generator-iota.vercel.app/)
 
 ### Desenvolvido com
@@ -20,7 +20,7 @@ Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatr
 
 ### O que aprendi
 
-Nesse desafio explorei minhas habilidades de manipulação de DOM, aprendi a salvar e resgatar arquivos da LocalStogare, além de consolidar as técnicas de componentização dos elementos.
+Nesse desafio explorei o uso do hook useState, e os efeitos de animação simples com CSS.
 
 
 ## Autor
