@@ -1,5 +1,5 @@
 # Challenge React30 - Project 1: ID card generator
-Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatre59.medium.com/react30-project-1-id-card-generator-58f615ed80af)
+Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatre59.medium.com/react-30-project-2-building-a-clicker-app-with-react-js-79831b1ae037)
 
 
 ### Screenshot
@@ -9,7 +9,7 @@ Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatr
 ### Links
 
 - Solução URL: [Repository](https://github.com/aslinsjr/clicker-app)
-- Live Site URL: [GitHub Page](https://clicker-app-zeta.vercel.app/)
+- Live Site URL: [Live Page](https://clicker-app-zeta.vercel.app/)
 
 ### Desenvolvido com
 
