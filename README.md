@@ -1,4 +1,4 @@
-# Challenge React30 - Project 1: ID card generator
+# Challenge React30 - Project 2: Click App
 Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://smhatre59.medium.com/react-30-project-2-building-a-clicker-app-with-react-js-79831b1ae037)
 
 
